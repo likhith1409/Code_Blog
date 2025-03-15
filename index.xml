@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome Hugo blog</title>
+    <link>https://likhith1409.github.io/Code_Blog/</link>
+    <description>Recent content on Awesome Hugo blog</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 15 Mar 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://likhith1409.github.io/Code_Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Stack Data Structure with Python</title>
+      <link>https://likhith1409.github.io/Code_Blog/posts/my-first-post/</link>
+      <pubDate>Sat, 15 Mar 2025 10:00:00 +0000</pubDate>
+      <guid>https://likhith1409.github.io/Code_Blog/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;understanding-stack-data-structure-with-python-using-example-reverse-a-string&#34;&gt;Understanding Stack Data Structure with Python Using Example Reverse a String&lt;/h1&gt;&#xA;&lt;p&gt;In this post, we will explore the &lt;strong&gt;Stack&lt;/strong&gt; data structure and how it works using Python. A stack operates on the &lt;strong&gt;LIFO (Last In, First Out)&lt;/strong&gt; principle, meaning the last element added to the stack is the first one to be removed.&lt;/p&gt;&#xA;&lt;p&gt;We will implement a simple &lt;code&gt;Stack&lt;/code&gt; class and demonstrate its functionality by reversing a string.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;code-implementation&#34;&gt;Code Implementation&lt;/h2&gt;&#xA;&lt;p&gt;Here’s the Python implementation of a &lt;code&gt;Stack&lt;/code&gt; class:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
